@@ -1,3 +1,7 @@
+# Instalação do pacote, pode ser utilizado as uma das 2 formas apresentadas abaixo
+python -m pip install pytube
+python -m pip install git+https://github.com/pytube/pytube
+
 # Importando pytube 
 from pytube import YouTube
 
